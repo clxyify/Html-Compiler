@@ -1,0 +1,12 @@
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\bin\Debug\HTML Compiler.exe.config
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\bin\Debug\HTML Compiler.exe
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\bin\Debug\HTML Compiler.pdb
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\bin\Debug\FastColoredTextBox.dll
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML Compiler.csproj.AssemblyReference.cache
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML_Compiler.Properties.Resources.resources
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML Compiler.csproj.GenerateResource.cache
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML Compiler.csproj.CoreCompileInputs.cache
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML Compiler.csproj.CopyComplete
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML Compiler.exe
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML Compiler.pdb
+C:\Users\avtar\source\repos\HTML Compiler\HTML Compiler\obj\Debug\HTML_Compiler.Compiler.resources
